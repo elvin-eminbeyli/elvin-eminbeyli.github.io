@@ -719,6 +719,7 @@ footer:before {
 
 .desc ul {
     list-style-type: none;
+    font-family: Arial, sans-serif;
     width: 870px;
     border: 2px solid grey;
     padding: 30px 30px 15px 40px;
